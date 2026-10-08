@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "breakdoor",
+      "name": "BreakDoor",
+      "universeIds": [9788139379],
+      "placeIds": [119004860768199, 108994049761860, 140725422147474, 138031701774088],
+      "scripts": [
+        {"id": "hunter", "label": "Hunter", "path": "Games/Breakdoor/Hunter.luau"},
+        {"id": "survivor", "label": "Survivor", "path": "Games/Breakdoor/Survivor.luau"}
+      ]
+    }
+  ]
+}
